@@ -1,5 +1,3 @@
-# 💫 About Me:
-👋 Hi, I'm Aryan<br><br>🎓 Final-year Diploma Student | 💻 Developer & UI/UX Enthusiast  <br>📍 India<br><br>I design and build practical digital products — mobile apps, dashboards, and web tools.  <br>Right now, I’m focused on improving my skills in **Flutter, UI/UX design, and full-stack development  by working on real-world projects instead of theory.<br><br>🚀 What I Work On<br><br>✔ Mobile apps in Flutter  <br>✔ Modern & responsive web UIs  <br>✔ AI-assisted tools and automation  <br>✔ Real-world student projects<br><br>🛠 Tech & Tools<br><br>**Languages**<br>- Java | C++ | Pythone | C | DBMS | OS |Dart | JavaScript | SQL | PHP | HTML/CSS<br><br>Frameworks / Platforms<br>- Flutter<br>-.net<br>- Flask / Node (basics)<br><br>Databases<br>- Firebase<br>- sql<br>- Supabase<br><br>Design<br>- Figma  <br>- Canva  <br>- UI/UX Wireframing<br>
 
 
 ## 🌐 Socials:
