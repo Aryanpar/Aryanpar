@@ -1,3 +1,5 @@
+# 💫 About Me:
+👋 Hi, I'm Aryan<br><br>🎓 Final-year Diploma Student | 💻 Developer & UI/UX Enthusiast  <br>📍 India<br><br>🚀 What I Work On<br><br>✔ Mobile apps in Flutter  <br>✔ Modern & responsive web UIs  <br>✔ AI-assisted tools and automation  <br>✔ Real-world student projects
 
 
 ## 🌐 Socials:
@@ -11,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanpar&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryanpar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aryanpar&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
