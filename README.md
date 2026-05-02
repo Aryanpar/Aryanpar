@@ -1,6 +1,7 @@
 # 💫 About Me:
 Portfolio : https://deluxe-creponne-381ff3.netlify.app/
-👋 Hi, I'm Aryan<br><br>🎓 Final-year Diploma Student | 💻 Developer & UI/UX Enthusiast  <br>📍 India<br><br>🚀 What I Work On<br><br>✔ Mobile apps in Flutter  <br>✔ Modern & responsive web UIs  <br>✔ AI-assisted tools and automation  <br>✔ Real-world student projects
+<br>
+<br>👋 Hi, I'm Aryan<br><br>🎓 Final-year Diploma Student | 💻 Developer & UI/UX Enthusiast  <br>📍 India<br><br>🚀 What I Work On<br><br>✔ Mobile apps in Flutter  <br>✔ Modern & responsive web UIs  <br>✔ AI-assisted tools and automation  <br>✔ Real-world student projects
 
 
 ## 🌐 Socials:
